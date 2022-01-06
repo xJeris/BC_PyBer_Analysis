@@ -21,7 +21,7 @@ This analysis shows ride-sharing data for different city types. It's goal is to 
 # Summary
 <p>Based on this analysis of ride and driver data, I would make the following recommendations on how to address the disparity in rides, drivers, and fares in each city type.<ol>
   <li>Rides in urban areas will generally be shorter than those in suburban or rural areas. Meaning the average fare per ride will be lower. But, by reducing the number of available drivers by as much as 33% in urban areas, we can increase the average fare per driver. Currently there are far more drivers available, then there are rides requested.</li>
-  <li>test</li>
+  <li>Conversely, rides in the rural areas tend to be farther, and have a higher fare. But, due to a low number of drivers the average fare per ride is far lower than the average fare per driver. In order to bring these closer together, and decrease the wait times for a ride in rural areas i would increase the number of available drivers by as much as 60%.</li>
   <li>test</li></ol></p>
   
 
