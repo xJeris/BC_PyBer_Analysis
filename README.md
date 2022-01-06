@@ -5,7 +5,13 @@ This analysis shows ride-sharing data for different city types. It's goal is to 
 <p>The following graph shows the total fares for the first 4 months of 2019 by city type. It clearly shows that the rural rides produce the most fares, and as you get closer to the city, the fares decrease.</p>
 <img src="https://github.com/xJeris/BC_PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="648" />
 
-<p>Similar to the above graph, the average fare, and average fare per driver also decreases as you move from rural towards urban areas.</p>
+<p>Similar to the above graph, the average fare, and average fare per driver also decreases as you move from rural towards urban areas. For the same 4 month period in 2019, the following chart depicts by city type:<ul>
+  <li>The total number of rides</li>
+  <li>The total number of drivers</li>
+  <li>The total fares</li>
+  <li>The average fare per ride</li>
+  <li>the average fare per driver</li>
+  </ul></p>
 <img src="https://github.com/xJeris/BC_PyBer_Analysis/blob/main/analysis/ridedata1.png" width="450" />
 
 
