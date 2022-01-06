@@ -4,11 +4,11 @@ This analysis shows ride-sharing data for different city types. It's goal is to 
 # Results
 
 ### Total Fares by City Type
-<p>The following graph shows the total fares for the first 4 months of 2019 by city type. It clearly shows that the rural rides produce the most fares, and as you get closer to the city, the fares decrease.</p>
+<p>The following graph shows the total fares for the first 4 months of 2019 by city type. It clearly shows that urban areas produce the most fares, and as you get farther from the city, the total fares decrease.</p>
 <img src="https://github.com/xJeris/BC_PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="648" />
 
 ### Total and Average Fares by Rides and Drivers
-<p>Similar to the above graph, the average fare, and average fare per driver also decreases as you move from rural towards urban areas. For the same 4 month period in 2019, the following chart depicts by city type:<ul>
+<p>Additionally, the average fare, and average fare per driver decreases as you move from rural towards urban areas. For the same 4 month period in 2019, the following chart depicts by city type:<ul>
   <li>The total number of rides,</li>
   <li>The total number of drivers,</li>
   <li>The total fares,</li>
@@ -24,5 +24,3 @@ This analysis shows ride-sharing data for different city types. It's goal is to 
   <li>Conversely, rides in the rural areas tend to be farther, and have a higher fare. But, due to a low number of drivers the average fare per ride is far lower than the average fare per driver. In order to bring these closer together, and decrease the wait times for a ride in rural areas i would increase the number of available drivers by as much as 60%.</li>
   <li>test</li></ol></p>
   
-
-* Increase the number of drivers in rural areas by up to 60%. So that the number of rides given per driver is closer to 1. Currently, it is at 1.6 which could indicate passengers are waiting longer for a driver.
