@@ -19,5 +19,10 @@ This analysis shows ride-sharing data for different city types. It's goal is to 
 
 
 # Summary
-* Reduce the number of drivers in urban areas by at least 33%. So that the number of rides given per driver is at or above 1. Currently, there are a lot of drivers who don't receive a fare while working.
+<p>Based on this analysis of ride and driver data, I would make the following recommendations on how to address the disparity in rides, drivers, and fares in each city type.<ol>
+  <li>Rides in urban areas will generally be shorter than those in suburban or rural areas. Meaning the average fare per ride will be lower. But, by reducing the number of available drivers by as much as 33% in urban areas, we can increase the average fare per driver. Currently there are far more drivers available, then there are rides requested.</li>
+  <li>test</li>
+  <li>test</li></ol></p>
+  
+
 * Increase the number of drivers in rural areas by up to 60%. So that the number of rides given per driver is closer to 1. Currently, it is at 1.6 which could indicate passengers are waiting longer for a driver.
